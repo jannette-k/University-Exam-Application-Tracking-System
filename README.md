@@ -616,4 +616,4 @@ For support, email support@examtracking.ac.ke or open an issue on GitHub.
 
 ---
 
-**Built with Janet for Kenyan Universities**
+**Built with Janet & Steve for Kenyan Universities**
